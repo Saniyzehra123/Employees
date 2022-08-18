@@ -1,0 +1,39 @@
+{
+  "employee_details": [ {
+      "name": "John",
+      "age": 30,
+      " gender":"M",
+      "department":"IT",
+      "salary": 5000
+  },
+  {
+      "name": "Jane",
+      "age":28,
+      " gender":"F",
+      "department":"IT",
+      "salary": 5000
+  },
+      {
+      "name": "Rohn",
+      "age":40,
+      " gender":"M",
+      "department":"IT",
+      "salary": 7000
+
+
+      },
+      {
+          "name": "Rahul",
+          "age":32,
+          " gender":"M",
+          "department":"IT",
+          "salary": 4000
+
+  }
+  
+
+]
+
+  
+  
+}

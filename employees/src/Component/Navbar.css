@@ -1,0 +1,30 @@
+.navcon{
+    width:100%;
+    height: 100px;
+    /* border:1px solid blue; */
+    display: flex;
+    position: fixed;
+    /* position: sticky; */
+    justify-content:  space-around;
+ 
+    top: 0;
+     
+    z-index: 1;
+}
+h1{
+    color:  teal
+}
+.logoutbtn{
+    background-color: teal;
+    color: white;
+    border: none;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 15px 2px;
+    cursor: pointer;
+    height: 50px;
+
+}
