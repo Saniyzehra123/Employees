@@ -2,7 +2,7 @@ import React, { useEffect } from 'react'
 import "./Employees.css"
 import { useDispatch ,useSelector} from 'react-redux';
 import { NavLink, useNavigate } from "react-router-dom";
-import { fetchData } from './Redux/action';
+import { fetchData } from '../Redux/action';
 
 
 

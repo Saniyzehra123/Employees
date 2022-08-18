@@ -1,10 +1,19 @@
 import * as types from './actionTypes';
-
+ 
     const initialState = {
         isLoading: false,
        employees: [],
-        error: null
+        error: null,
+        
+        
+         
     }
+
+
+     
+
+      
+   
     export const   employeesreducer = (state = initialState, action) => {
         const {type, payload} = action;
         switch (type) {
@@ -31,3 +40,8 @@ import * as types from './actionTypes';
                 return state;
         }
     }
+
+
+    
+
+    
